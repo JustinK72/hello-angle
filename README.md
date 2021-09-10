@@ -1,5 +1,5 @@
 # heroku-sudoku
 
-##Charles Version
+## Charles Version
 
 [Herokuapp Link](https://knight-charlie-murphey.herokuapp.com/)
