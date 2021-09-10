@@ -1,5 +1,5 @@
 # heroku-sudoku
 
-<h1>Charles Version</h1>
+##Charles Version
 
-[https://knight-charlie-murphey.herokuapp.com/](Herokuapp Link)
+[Herokuapp Link] (https://knight-charlie-murphey.herokuapp.com/)
